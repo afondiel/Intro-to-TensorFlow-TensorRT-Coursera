@@ -89,4 +89,4 @@ To complete this project successfully, you should have:
     - [Speed Up TensorFlow Inference on GPUs with TensorRT](https://blog.tensorflow.org/2018/04/speed-up-tensorflow-inference-on-gpus-tensorRT.html).  
 
 
-### "It's hardware that makes a machine fast. It's software that makes a fast machine slow." - Craig Bruce"
+### "It's hardware that makes a machine fast. It's software that makes a fast machine slow." - [Craig Bruce](http://www.csbruce.com/)
